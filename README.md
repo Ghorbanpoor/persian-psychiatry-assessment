@@ -73,7 +73,7 @@ GitHub Codespaces is recommended for users who want to run the application witho
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/persian-psychiatry-assessment.git
+git clone https://github.com/Ghorbanpoor/persian-psychiatry-assessment.git
 cd persian-psychiatry-assessment
 ```
 
